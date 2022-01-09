@@ -1,6 +1,6 @@
 ### Hi there, I'm Anup [website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://anup.pro)
+[![Website](https://img.shields.io/website?label=anup.pro&style=for-the-badge&url=https%3A%2F%anup.pro)](https://anup.pro)
 
 
 - 👨‍💻 I am a front-end developer
@@ -33,8 +33,6 @@
 
 ---
 
-
----
 
 
 <details>
