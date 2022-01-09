@@ -47,4 +47,4 @@
 [website]: https://anup.pro
 [a]: #
 [instagram]: https://www.instagram.com/anupbhandari_
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/anupbh/
