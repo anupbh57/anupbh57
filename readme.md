@@ -1,6 +1,6 @@
 ### Hi there, I'm Anup [website] 👋 
 
-[![Website](https://img.shields.io/website?label=anup.pro&style=for-the-badge&url=https%3A%2F%2Fanupbhandari.in)](https://anupbhandari.in)
+[![Website](https://img.shields.io/website?label=anupbhandari.in&style=for-the-badge&url=https%3A%2F%2Fanupbhandari.in)](https://anupbhandari.in)
 
 
 - 👨‍💻 I am a front-end developer
@@ -41,7 +41,7 @@
 
 </details>
 
-[website]: https://anup.pro
+[website]: https://anupbhandari.in
 [a]: #
 [instagram]: https://www.instagram.com/anupbhandari_
 [linkedin]: https://www.linkedin.com/in/anupbh/
