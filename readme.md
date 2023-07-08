@@ -1,4 +1,4 @@
-### Hi there, I'm Anup [website] 👋 
+### Hi there, I'm Anup 👋 
 
 [![Website](https://img.shields.io/website?label=anup.au&style=for-the-badge&url=https%3A%2F%2Fanup.au)](https://anup.au)
 
